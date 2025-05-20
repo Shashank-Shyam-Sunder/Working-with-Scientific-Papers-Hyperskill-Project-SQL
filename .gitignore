@@ -166,5 +166,5 @@ cython_debug/
 # Ignore requirements.txt as all the projects are very basic and does not require any special package
 requirements.txt
 
-SQL_project_working_with_scientific_papers/extra_files/
+extra_files/
 Read_me.txt
