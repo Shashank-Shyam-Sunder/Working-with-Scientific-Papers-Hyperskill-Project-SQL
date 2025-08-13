@@ -170,12 +170,6 @@ The script includes robust error handling:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Note:** Please check the individual paper licenses in the ArXiv dataset, as they may have different licensing terms.
-
 ## ⚠️ Important Notes
 
 - Ensure pgvector extension is properly installed before running
@@ -198,6 +192,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Verify JSON file path and format
 - Check for missing required fields in dataset
 - Monitor console output for specific error messages
+
+---
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note:** Please check the individual paper licenses in the ArXiv dataset, as they may have different licensing terms.
 
 ---
 
