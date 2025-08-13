@@ -172,7 +172,9 @@ The script includes robust error handling:
 
 ## 📝 License
 
-This project is open source. Please check the individual paper licenses in the dataset.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note:** Please check the individual paper licenses in the ArXiv dataset, as they may have different licensing terms.
 
 ## ⚠️ Important Notes
 
