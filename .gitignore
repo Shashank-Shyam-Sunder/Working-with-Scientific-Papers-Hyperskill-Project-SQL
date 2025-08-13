@@ -163,8 +163,21 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore requirements.txt as all the projects are very basic and does not require any special package
-requirements.txt
+# Project-specific ignores
+*.json
+dataset.zip
+*.csv
+*.tsv
+*.parquet
 
-extra_files/
-Read_me.txt
+# Large dataset files
+ml-arxiv-embeddings_*.json
+arxiv_*.json
+
+# Database backups
+*.sql.backup
+*.dump
+
+# Temporary files
+temp/
+tmp/
