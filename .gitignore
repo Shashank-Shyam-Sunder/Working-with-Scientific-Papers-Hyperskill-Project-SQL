@@ -181,3 +181,7 @@ arxiv_*.json
 # Temporary files
 temp/
 tmp/
+
+# Ignore specific files and folders
+Read_me.txt
+extra_files/
